@@ -1,3 +1,9 @@
+# Title: Assembly quality
+# Project: Chemical Pollution Drives Taxonomic and Functional Shifts in Marine Sediment Microbiome, Influencing Benthic Metazoans
+# Maintainer: Lin-Lin Xu
+# Last update: Nov 24, 2024
+# License: MIT
+
 library(tidyverse)
 Assembly_df <- read_csv("~/Desktop/marine_sediment/manuscript/Figure_v5/Assembly_table.csv")
 N50_df <- read_tsv("~/Desktop/marine_sediment/manuscript/Figure_v5/N50.txt")
