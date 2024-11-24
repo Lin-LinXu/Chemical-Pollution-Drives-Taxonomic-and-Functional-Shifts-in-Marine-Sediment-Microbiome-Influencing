@@ -1,3 +1,9 @@
+# Title: Quality control
+# Project: Chemical Pollution Drives Taxonomic and Functional Shifts in Marine Sediment Microbiome, Influencing Benthic Metazoans
+# Maintainer: Lin-Lin Xu
+# Last update: Nov 24, 2024
+# License: MIT
+
 setwd("~/Desktop/marine_sediment/results/")
 library(ggplot2)
 library(reshape2)
