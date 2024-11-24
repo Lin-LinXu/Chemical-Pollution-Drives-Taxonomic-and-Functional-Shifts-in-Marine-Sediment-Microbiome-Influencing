@@ -1,3 +1,9 @@
+# Title: Differential Abundance microbiome function (season)
+# Project: Chemical Pollution Drives Taxonomic and Functional Shifts in Marine Sediment Microbiome, Influencing Benthic Metazoans
+# Maintainer: Lin-Lin Xu
+# Last update: Nov 24, 2024
+# License: MIT
+
 library(Maaslin2)
 ## Load data -------------------------------------------------------------------
 data_PATH <- readRDS("/data/Desktop/marine_sediment/results/Function_DA_PATHWAY_pollution_List.rds")
