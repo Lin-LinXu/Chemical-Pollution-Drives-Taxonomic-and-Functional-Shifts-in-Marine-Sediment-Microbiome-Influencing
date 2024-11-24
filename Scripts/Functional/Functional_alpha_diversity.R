@@ -1,3 +1,9 @@
+# Title: Alpha diversity microbiome function
+# Project: Chemical Pollution Drives Taxonomic and Functional Shifts in Marine Sediment Microbiome, Influencing Benthic Metazoans
+# Maintainer: Lin-Lin Xu
+# Last update: Nov 24, 2024
+# License: MIT
+
 ## Loading required package ----------------------------------------------------
 library(tidyverse)
 library(janitor)
