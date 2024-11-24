@@ -2,6 +2,7 @@
 # Project: Chemical Pollution Drives Taxonomic and Functional Shifts in Marine Sediment Microbiome, Influencing Benthic Metazoans
 # Maintainer: Lin-Lin Xu
 # Last update: Nov 24, 2024
+# License: MIT
 
 ## Loading required packages ---------------------------------------------------
 library(Maaslin2)
